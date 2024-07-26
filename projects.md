@@ -6,7 +6,7 @@ title: Projects
 A collection of projects I have worked on or are working on.
 
 ### Technical University of Munich
-- Sep 2024 ~     Now : Deep reinforcement learning-based optimal maintenance strategy for large-scale infrastructure networks under seismic risk
+- Sep 2024 ~ Now: Deep reinforcement learning-based optimal maintenance strategy for large-scale infrastructure networks under seismic risk
 
 ### Seoul National University
 -	Apr 2022 ~ Aug 2024: Deep learning technologies for assessment of seismic responses and damage of nuclear power plant structures and equipment
