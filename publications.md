@@ -42,9 +42,3 @@ The publications are also available on [Google Scholar](https://scholar.google.c
 * ***<u>Lee, D.</u>***, & Song, J. (2020). <u>Multi-scale seismic reliability assessment of large networks using centrality-based selective recursive decomposition algorithm</u> (in Korean). In: _Proc., EESK Conference 2020_, September 25, Virtual event.
 * ***<u>Lee, D.</u>***, & Song, J. (2019). [<u>Efficient system reliability analysis using centrality-based selective recursive decomposition algorithm</u>](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09328526&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&aiChatView=B&readTime=5-10&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) (in Korean). In: _Proc., Korean Society of Civil Engineers 2019 Convention_, October 16-18, Pyeongchang, Korea
 * Byun, J.E., Song, J., Kang, C., & ***<u>Lee, D.</u>*** (2018). [<u>Probabilistic modeling, inference, and optimization for network resilience based optimal decision-making on seismic retrofit of bridges</u>](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07616777&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&aiChatView=B&readTime=5-10&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) (in Korean). In: _Proc., Korean Society of Civil Engineers 2018 Convention_, October 17-19, Kyeongju, Korea.
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
